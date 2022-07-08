@@ -5,7 +5,7 @@ use anchor_spl::token::{MintTo, Token};
 use std::mem::size_of;
 use mpl_token_metadata::instruction::{create_master_edition_v3, create_metadata_accounts_v2};
 
-declare_id!("D3y1bCPeP8fXvc8Ji2pqhS9f8JWmHCcr6rCJE2ZNSzUG");
+declare_id!("12jiccs4xBX7P6g5TXmduiL9oHeffZkNDcf6i6VjCPC8");
 
 #[program]
 pub mod sol_mint_wl {
@@ -147,7 +147,7 @@ pub mod sol_mint_wl {
                 symbol,
                 uri,
                 Some(creator),
-                1,
+                500,
                 true,
                 false,
                 None,

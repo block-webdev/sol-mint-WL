@@ -1,10 +1,10 @@
 [features]
 seeds = false
 [programs.localnet]
-sol_mint_wl = "D3y1bCPeP8fXvc8Ji2pqhS9f8JWmHCcr6rCJE2ZNSzUG"
+sol_mint_wl = "12jiccs4xBX7P6g5TXmduiL9oHeffZkNDcf6i6VjCPC8"
 
 [programs.devnet]
-sol_mint_wl = "D3y1bCPeP8fXvc8Ji2pqhS9f8JWmHCcr6rCJE2ZNSzUG"
+sol_mint_wl = "12jiccs4xBX7P6g5TXmduiL9oHeffZkNDcf6i6VjCPC8"
 
 [registry]
 url = "https://anchor.projectserum.com"
